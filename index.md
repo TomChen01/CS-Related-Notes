@@ -1,8 +1,13 @@
 ---
-title: Home
+title: 前言
 layout: home
+nav_order: 1
 ---
 
-This Note is inspired by the famous [CSdiy] website. I hope to record my study notes and thoughts on this page, mainly on CS Related fields and my intern experiences.
+# 欢迎来到熠熠生辉的笔记库！
+
+这是一个受到著名的 [CSdiy](https://csdiy.wiki) 启发而开始的项目，我希望能在这里记录下我的学习路径、笔记以及思考。
+
+其中的主要内容是 CS/DS 相关的课程，也会包含一些我在实习过程的记录。
 
 
